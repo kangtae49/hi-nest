@@ -138,3 +138,15 @@ generate module
 nest g mo
 ? What name would you like to use for the module? movies
 ```
+
+test
+---
+```
+$ npm run test:cov
+
+$ npm run test: watch
+
+$ npm run test:e2e
+
+```
+
